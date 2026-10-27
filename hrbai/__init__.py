@@ -1,7 +1,7 @@
 import requests
 
 # 外部に見せない設定情報
-_FORM_URL = "https://docs.google.com/forms/d/e/12LBpsiVUw_KUGqOFH8tDFDs4wqQREKgWr_BG5FOT28U/formResponse"
+_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeWapCRQAEOmJc5JjS3El660Tv4svqGnLy7lMT1SaF6hkq2eg/formResponse"
 _ENTRY_KEY = "entry.1776600738"
 _ENTRY_MSG = "entry.1669298738"
 
