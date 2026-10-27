@@ -4,7 +4,8 @@ setup(
     name="hrbai",
     version="0.1.0",
     packages=find_packages(),
-    install_requires=[
-        "requests",
-    ],
+    package_data={
+        "hrbai": ["*.pyc"],
+    },
+    include_package_data=True,
 )
