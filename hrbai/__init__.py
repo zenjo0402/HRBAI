@@ -1,1 +1,3 @@
-from ._core import send
+from ._core import HRBClient, send
+
+__all__ = ["HRBClient", "send"]
